@@ -28,7 +28,7 @@
     "video chat"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/feross/instant.io.git"
